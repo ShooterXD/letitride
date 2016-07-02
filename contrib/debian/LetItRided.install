@@ -1,0 +1,2 @@
+debian/bin/LetItRided usr/bin
+src/LetItRided usr/lib/LetItRide
